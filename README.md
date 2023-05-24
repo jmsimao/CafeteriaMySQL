@@ -1,2 +1,2 @@
 "# CafeteriaMySQL" 
-Soring Boot / RestAPI
+Spring Boot / RestAPI
